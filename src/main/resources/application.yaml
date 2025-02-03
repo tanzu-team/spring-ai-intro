@@ -1,7 +1,7 @@
 app:
   ai:
     provider: ollama  # choose between ollama, openai, azure
-
+    vectorstore: simple # simple, redis, pgvector
 spring:
   application:
     name: spring-ai-intro
@@ -26,4 +26,7 @@ spring:
         embedding:
           options:
             model: text-embedding-3-small
+    vectorstore:
+      redis:
+        initialize-schema: true
 

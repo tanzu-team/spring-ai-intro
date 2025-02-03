@@ -1,0 +1,212 @@
+[
+  {
+    "timestamp": "02/03/2025 14:15:23",
+    "name": "Lars Svensson",
+    "email": "lars.svensson@email.com",
+    "score": 5,
+    "feedback": "Excellent lab, exceeded expectations."
+  },
+  {
+    "timestamp": "02/03/2025 15:05:47",
+    "name": "Erik Johansson",
+    "email": "erik.johansson@email.com",
+    "score": 5,
+    "feedback": "Outstanding experience, very informative and engaging."
+  },
+  {
+    "timestamp": "02/03/2025 16:22:10",
+    "name": "Anna Andersson",
+    "email": "anna.andersson@email.com",
+    "score": 4,
+    "feedback": "Good lab, but a few minor improvements could be made."
+  },
+  {
+    "timestamp": "02/03/2025 17:45:33",
+    "name": "Karin Nilsson",
+    "email": "karin.nilsson@email.com",
+    "score": 5,
+    "feedback": "Perfect execution, I learned a lot."
+  },
+  {
+    "timestamp": "02/03/2025 18:10:05",
+    "name": "Per Karlsson",
+    "email": "per.karlsson@email.com",
+    "score": 4,
+    "feedback": "Solid content and presentation, slight room for improvement."
+  },
+  {
+    "timestamp": "02/03/2025 19:30:15",
+    "name": "Sven Larsson",
+    "email": "sven.larsson@email.com",
+    "score": 5,
+    "feedback": "Superb content and delivery, very impressive."
+  },
+  {
+    "timestamp": "02/03/2025 20:05:50",
+    "name": "Ingrid Olsson",
+    "email": "ingrid.olsson@email.com",
+    "score": 4,
+    "feedback": "Well executed, though some sections could be clearer."
+  },
+  {
+    "timestamp": "02/03/2025 20:45:12",
+    "name": "Eva Persson",
+    "email": "eva.persson@email.com",
+    "score": 5,
+    "feedback": "Really enjoyed the lab, top-notch quality."
+  },
+  {
+    "timestamp": "02/03/2025 21:15:34",
+    "name": "Oskar Gustafsson",
+    "email": "oskar.gustafsson@email.com",
+    "score": 5,
+    "feedback": "Very well organized and insightful."
+  },
+  {
+    "timestamp": "02/03/2025 21:55:18",
+    "name": "Mikael Eriksson",
+    "email": "mikael.eriksson@email.com",
+    "score": 4,
+    "feedback": "A strong lab experience with only minor flaws."
+  },
+  {
+    "timestamp": "02/03/2025 22:20:11",
+    "name": "Johan Pettersson",
+    "email": "johan.pettersson@email.com",
+    "score": 5,
+    "feedback": "The lab was exceptional and highly recommended."
+  },
+  {
+    "timestamp": "02/03/2025 22:50:05",
+    "name": "Anders Mattsson",
+    "email": "anders.mattsson@email.com",
+    "score": 4,
+    "feedback": "Informative lab, but could benefit from more examples."
+  },
+  {
+    "timestamp": "02/03/2025 23:15:27",
+    "name": "Birgitta Olofsson",
+    "email": "birgitta.olofsson@email.com",
+    "score": 5,
+    "feedback": "Brilliant session, very clear and effective."
+  },
+  {
+    "timestamp": "02/04/2025 00:30:45",
+    "name": "Hans Bergstrom",
+    "email": "hans.bergstrom@email.com",
+    "score": 4,
+    "feedback": "Good lab, but consider more interactive elements."
+  },
+  {
+    "timestamp": "02/04/2025 01:05:12",
+    "name": "Ulf Berg",
+    "email": "ulf.berg@email.com",
+    "score": 4,
+    "feedback": "Solid performance, though room for improvement in a few areas."
+  },
+  {
+    "timestamp": "02/04/2025 02:15:33",
+    "name": "Fredrik Lindberg",
+    "email": "fredrik.lindberg@email.com",
+    "score": 5,
+    "feedback": "Excellent lab, exceeded all my expectations."
+  },
+  {
+    "timestamp": "02/04/2025 03:25:47",
+    "name": "Maja Lund",
+    "email": "maja.lund@email.com",
+    "score": 4,
+    "feedback": "Very good overall, with just a couple of tweaks needed."
+  },
+  {
+    "timestamp": "02/04/2025 04:40:22",
+    "name": "Olivia Eriksson",
+    "email": "olivia.eriksson@email.com",
+    "score": 5,
+    "feedback": "Outstanding lab experience, very well done."
+  },
+  {
+    "timestamp": "02/04/2025 05:55:10",
+    "name": "Emil Svensson",
+    "email": "emil.svensson@email.com",
+    "score": 5,
+    "feedback": "Superb lab, highly informative and engaging."
+  },
+  {
+    "timestamp": "02/04/2025 06:20:45",
+    "name": "Viktor Karlsson",
+    "email": "viktor.karlsson@email.com",
+    "score": 4,
+    "feedback": "Solid session, though some parts felt rushed."
+  },
+  {
+    "timestamp": "02/04/2025 07:35:59",
+    "name": "Klara Lindqvist",
+    "email": "klara.lindqvist@email.com",
+    "score": 5,
+    "feedback": "Top-notch lab, brilliantly executed."
+  },
+  {
+    "timestamp": "02/04/2025 08:50:03",
+    "name": "Axel Sjoberg",
+    "email": "axel.sjoberg@email.com",
+    "score": 4,
+    "feedback": "Very informative, minor improvements would perfect it."
+  },
+  {
+    "timestamp": "02/04/2025 09:15:17",
+    "name": "Sara Holm",
+    "email": "sara.holm@email.com",
+    "score": 3,
+    "feedback": "Decent lab, but it left me with some questions."
+  },
+  {
+    "timestamp": "02/04/2025 10:05:29",
+    "name": "Nils Olsson",
+    "email": "nils.olsson@email.com",
+    "score": 2,
+    "feedback": "Below expectations, several areas need improvement."
+  },
+  {
+    "timestamp": "02/04/2025 11:20:35",
+    "name": "Lina Gustafsson",
+    "email": "lina.gustafsson@email.com",
+    "score": 1,
+    "feedback": "Unacceptable lab, did not meet expectations at all."
+  },
+  {
+    "timestamp": "02/04/2025 12:30:40",
+    "name": "Olle Johansson",
+    "email": "olle.johansson@email.com",
+    "score": 2,
+    "feedback": "Unsatisfactory experience, content was confusing."
+  },
+  {
+    "timestamp": "02/04/2025 13:45:55",
+    "name": "Felix Andersson",
+    "email": "felix.andersson@email.com",
+    "score": 1,
+    "feedback": "Very disappointing, significant improvements required."
+  },
+  {
+    "timestamp": "02/04/2025 14:55:10",
+    "name": "Stina Nilsson",
+    "email": "stina.nilsson@email.com",
+    "score": 3,
+    "feedback": "Average lab, neither outstanding nor poor."
+  },
+  {
+    "timestamp": "02/04/2025 15:30:20",
+    "name": "Rolf Persson",
+    "email": "rolf.persson@email.com",
+    "score": 2,
+    "feedback": "Below expectations, several key points were unclear."
+  },
+  {
+    "timestamp": "02/05/2025 15:00:00",
+    "name": "Helena Larsson",
+    "email": "helena.larsson@email.com",
+    "score": 5,
+    "feedback": "Exceptional lab, exceeded all expectations."
+  }
+]
