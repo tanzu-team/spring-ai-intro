@@ -16,7 +16,7 @@ spring:
             model: llama3.2
         embedding:
           options:
-            model: nomic-embed-text
+            model: llama3.2
     openai:
         base-url: https://api.openai.com/
         api-key: ${OPENAI_API_KEY}
