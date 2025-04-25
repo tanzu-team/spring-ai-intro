@@ -1,4 +1,4 @@
-package dev.tanzu.demo;
+package dev.tanzu.demo.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.embedding.EmbeddingModel;
