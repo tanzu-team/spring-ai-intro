@@ -1,18 +1,14 @@
 package dev.tanzu.demo.raffle;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-import org.springframework.ai.vectorstore.SearchRequest;
-import org.springframework.ai.vectorstore.redis.RedisVectorStore;
 import org.springframework.web.bind.annotation.RestController;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.ai.document.Document;
 import org.springframework.ai.document.DocumentReader;
 import org.springframework.ai.reader.JsonReader;
-import org.springframework.ai.vectorstore.SimpleVectorStore;
 import org.springframework.ai.vectorstore.VectorStore;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
