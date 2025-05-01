@@ -66,3 +66,25 @@ understand and process from various sources, including text, images, audio, vide
 ```shell
 http localhost:8080/chat/explain
 ```
+## RAG Example
+
+`LoadController` processes JSON objects and stores their embeddings in a vector store.
+
+```shell
+http localhost:8080/raffle/load/json
+```
+
+`RaffleController` leverages the data in the vector store and answers questions about the stored data.
+
+```shell
+http localhost:8080/raffle/chat
+```
+
+```shell
+http 'localhost:8080/raffle/chat?question=list all positive feedback'
+```
+
+```shell
+http 'localhost:8080/raffle/chat?question=list all negative feedback'
+```
+
