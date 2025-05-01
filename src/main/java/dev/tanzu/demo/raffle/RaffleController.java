@@ -41,7 +41,14 @@ class RaffleController {
 
         logger.info("Asking a question: {}", question);
 
-        var searchBuilder = SearchRequest.builder().topK(TOP_K).similarityThresholdAll().build();
+        // you have to provide query("*") for OpenAI models, llama3.2 does not need this
+        var searchBuilder = SearchRequest
+                .builder()
+                .query("*")
+                .topK(TOP_K)
+                .similarityThresholdAll()
+                .build();
+
         var foundDocuments = vectorStore.similaritySearch(searchBuilder);
 
         logger.info("Loading {} documents from the vectorstore", foundDocuments.size());
@@ -62,6 +69,4 @@ class RaffleController {
                 .call()
                 .content();
     }
-
-
 }
