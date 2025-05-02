@@ -1,0 +1,15 @@
+spring:
+  ai:
+    model:
+      chat: openai # choose between ollama, openai
+      embedding: openai # choose between ollama, openai
+    openai:
+        api-key:
+        chat:
+          options:
+            model: gpt-4o
+        embedding:
+          options:
+            model: text-embedding-3-small
+
+

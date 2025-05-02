@@ -3,28 +3,17 @@ spring:
     name: spring-ai-intro
   ai:
     model:
-      chat: openai # choose between ollama, openai
-      embedding: openai # choose between ollama, openai
+      chat: ollama # choose between ollama, openai
+      embedding: ollama # choose between ollama, openai
       image: none # disabled
+      moderation: none # disabled
       audio:
         speech: none # disabled
         transcription: none # disabled
-    ollama:
-        base-url: http://localhost:11434/
+    ollama: # http://localhost:11434 is default base-url
         chat:
           options:
             model: llama3.2
         embedding:
           options:
             model: llama3.2
-    openai:
-        base-url: https://api.openai.com/
-        api-key: ${OPENAI_API_KEY}
-        chat:
-          options:
-            model: gpt-4o
-        embedding:
-          options:
-            model: text-embedding-3-small
-
-
