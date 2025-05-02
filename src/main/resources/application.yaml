@@ -1,14 +1,14 @@
-app:
-  ai:
-    provider: ollama  # choose between ollama, openai
-    vectorstore: simple # simple
 spring:
   application:
     name: spring-ai-intro
   ai:
-    chat:
-      client:
-        enabled: false # disable auto configuration of ChatClient, there are multiple LLM implementations
+    model:
+      chat: openai # choose between ollama, openai
+      embedding: openai # choose between ollama, openai
+      image: none # disabled
+      audio:
+        speech: none # disabled
+        transcription: none # disabled
     ollama:
         base-url: http://localhost:11434/
         chat:

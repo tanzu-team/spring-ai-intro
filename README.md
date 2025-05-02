@@ -63,6 +63,8 @@ http localhost:8080/chat/veggie
 `MultiModalController` demonstrates usage of Multimodality API and how it can simultaneously
 understand and process from various sources, including text, images, audio, video, etc.
 
+This will work on OpenAI, but not on Ollama `llama3.2` model as it is a text-based AI.
+
 ```shell
 http localhost:8080/chat/explain
 ```
